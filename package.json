@@ -1,0 +1,19 @@
+{
+  "name": "learning_express",
+  "version": "1.0.0",
+  "description": "Learning Express Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityabagla7/express.git"
+  },
+  "author": "Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityabagla7/express/issues"
+  },
+  "homepage": "https://github.com/adityabagla7/express#readme"
+}
